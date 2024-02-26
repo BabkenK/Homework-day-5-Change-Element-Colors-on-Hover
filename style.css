@@ -1,4 +1,3 @@
-/* Style for list items */
 ul {
     list-style-type: none;
     padding: 0;
